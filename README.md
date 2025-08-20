@@ -55,7 +55,7 @@
 
 <ul dir="rtl">
 <ul dir="rtl">
-  <li><b>00 - Preface:</b> مقدمه (در حال ترجمه 🟡)</li>
+  <li><b>00 - Introduction:</b> مقدمه (در حال ترجمه 🟡)</li>
   <li><b>01 - Introduction to Task:</b> معرفی Task (در حال ترجمه 🟡)</li>
   <li><b>02 - Task Creation and Execution:</b> ایجاد و اجرای Task (ترجمه نشده ❌)</li>
   <li><b>03 - Continuations:</b> ادامه کارها (ترجمه نشده ❌)</li>
@@ -69,9 +69,11 @@
 
 ---
 ## 🔗 فصل‌های کتاب (با لینک)
+<div align=""center>
+  
 | شماره | نام فصل (انگلیسی)                         | نام فصل (فارسی)                            | وضعیت | لینک                                               |
 |-------|-------------------------------------------|---------------------------------------------|--------|----------------------------------------------------|
-| 00    | Preface                             | مقدمه                              | 🟡     | [Preface](Book/00/Preface.md) |
+| 00    | Introduction                             | مقدمه                              | 🟡     | [Introduction](Book/00/Introduction.md) |
 | 01    | Introduction to Task                 | معرفی Task                         | 🟡     | [Introduction-to-Task](Book/01/Introduction-to-Task.md) |
 | 02    | Task Creation and Execution          | ایجاد و اجرای Task                 | ❌     | [Task-Creation-and-Execution](Book/02/Task-Creation-and-Execution.md) |
 | 03    | Continuations                        | ادامه کارها                        | ❌     | [Continuations](Book/03/Continuations.md) |
@@ -79,6 +81,8 @@
 | 05    | Task Cancellation                    | لغو Task                           | ❌     | [Task-Cancellation](Book/05/Task-Cancellation.md) |
 | 06    | Parallel Programming with Task       | برنامه‌نویسی موازی با Task         | ❌     | [Parallel-Programming-with-Task](Book/06/Parallel-Programming-with-Task.md) |
 | 07    | Advanced Task Programming            | مباحث پیشرفته در Task              | ❌     | [Advanced-Task-Programming](Book/07/Advanced-Task-Programming.md) |
+
+</div>
 
 🛑 قبل از شروع ترجمه یا تغییرات بزرگ، لطفاً یه [Issue](https://github.com/hheydarian/clean-code-in-csharp-persian/issues) باز کن یا با [hamdhydryan12@gmail.com](mailto:hamdhydryan12@gmail.com) در ارتباط باش.
 
