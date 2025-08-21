@@ -81,7 +81,7 @@ https://github.com/Apress/Task-Programming-in-C-and-.NET
 
 **📌 یادداشت نویسنده:** من تمام کدهای خود را فقط روی Visual Studio تست کرده‌ام. توجه داشته باشید که Visual Studio 2022 for Mac از پیش برای بازنشستگی در تاریخ ۳۱ اوت ۲۰۲۴ برنامه‌ریزی شده بود. برای اطلاعات بیشتر می‌توانید به این لینک مراجعه کنید:
 
- 🌐https://learn.microsoft.com/en-us/visualstudio/mac/what-happened- to-vs-for-mac?view=vsmac-2022.
+ 🌐https://learn.microsoft.com/en-us/visualstudio/mac/what-happened-to-vs-for-mac?view=vsma-20.
 
 ##  راهنمای استفاده از این کتاب 📘💡
 
