@@ -69,20 +69,22 @@
 
 ---
 ## 🔗 فصل‌های کتاب (با لینک)
-<div align=""center>
+<div align="center">
   
-| شماره | نام فصل (انگلیسی)                         | نام فصل (فارسی)                            | وضعیت | لینک                                               |
-|-------|-------------------------------------------|---------------------------------------------|--------|----------------------------------------------------|
-| 00    | Introduction                             | مقدمه                              | 🟡     | [Introduction](Book/00/Introduction.md) |
-| 01    | Introduction to Task                 | معرفی Task                         | 🟡     | [Introduction-to-Task](Book/01/Introduction-to-Task.md) |
-| 02    | Task Creation and Execution          | ایجاد و اجرای Task                 | ❌     | [Task-Creation-and-Execution](Book/02/Task-Creation-and-Execution.md) |
-| 03    | Continuations                        | ادامه کارها                        | ❌     | [Continuations](Book/03/Continuations.md) |
-| 04    | Exception Handling                   | مدیریت استثناها                    | ❌     | [Exception-Handling](Book/04/Exception-Handling.md) |
-| 05    | Task Cancellation                    | لغو Task                           | ❌     | [Task-Cancellation](Book/05/Task-Cancellation.md) |
-| 06    | Parallel Programming with Task       | برنامه‌نویسی موازی با Task         | ❌     | [Parallel-Programming-with-Task](Book/06/Parallel-Programming-with-Task.md) |
-| 07    | Advanced Task Programming            | مباحث پیشرفته در Task              | ❌     | [Advanced-Task-Programming](Book/07/Advanced-Task-Programming.md) |
+| شماره | نام فصل (انگلیسی)                         | نام فصل (فارسی)                          | وضعیت | لینک                                               |
+|-------|-------------------------------------------|-------------------------------------------|--------|----------------------------------------------------|
+| 00    | Introduction                             | مقدمه                                    | 🟡     | [Introduction](Book/00/Introduction.md) |
+| 01    | Asynchronous Programming and Tasks       | برنامه‌نویسی ناهمزمان و Task              | 🟡     | [Asynchronous-Programming-and-Tasks](Book/01/Asynchronous-Programming-and-Tasks.md) |
+| 02    | Task Creation and Execution              | ایجاد و اجرای Task                        | ❌     | [Task-Creation-and-Execution](Book/02/Task-Creation-and-Execution.md) |
+| 03    | Continuation and Nested Tasks            | ادامه‌کارها و Taskهای تو در تو            | ❌     | [Continuation-and-Nested-Tasks](Book/03/Continuation-and-Nested-Tasks.md) |
+| 04    | Exception Handling                       | مدیریت استثناها                           | ❌     | [Exception-Handling](Book/04/Exception-Handling.md) |
+| 05    | Managing Cancellations                   | مدیریت لغو در Task                        | ❌     | [Managing-Cancellations](Book/05/Managing-Cancellations.md) |
+| 06    | Bonus                                    | برنامه‌نویسی موازی با Task                | ❌     | [Bonus](Book/06/Bonus.md) |
+| 07    | APPENDIX-A                               | ضمیمه A – مباحث تکمیلی                    | ❌     | [APPENDIX-A](Book/APPENDIX-A/APPENDIX-A.md) |
+| 08    | APPENDIX-B                               | ضمیمه B – مباحث تکمیلی                    | ❌     | [APPENDIX-B](Book/APPENDIX-B/APPENDIX-B.md) |
 
 </div>
+
 
 🛑 قبل از شروع ترجمه یا تغییرات بزرگ، لطفاً یه [Issue](https://github.com/hheydarian/clean-code-in-csharp-persian/issues) باز کن یا با [hamdhydryan12@gmail.com](mailto:hamdhydryan12@gmail.com) در ارتباط باش.
 
