@@ -98,3 +98,8 @@ https://github.com/Apress/Task-Programming-in-C-and-.NET
  🌐 https://visualstudio.microsoft.com/downloads/
  
 و انتظار می‌رود که شکل Figure 1 را مشاهده کنید.
+
+<div align="center">
+  
+![Conventions-UsedThis-Book](../../assets/image/00/Figure-1.jpeg) 
+</div>
