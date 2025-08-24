@@ -52,36 +52,33 @@
 
 ## 📚 وضعیت ترجمه
 
-
-<ul dir="rtl">
 <ul dir="rtl">
   <li><b>00 - Introduction:</b> مقدمه (ترجمه شده ✅)</li>
-  <li><b>01 - Introduction to Task:</b> معرفی Task (ترجمه شده ✅)</li>
-  <li><b>02 - Task Creation and Execution:</b> ایجاد و اجرای Task (ترجمه شده ✅)</li>
-  <li><b>03 - Continuations:</b> ادامه کارها (در حال ترجمه 🟡)</li>
-  <li><b>04 - Exception Handling:</b> مدیریت استثناها (در حال ترجمه 🟡)</li>
-  <li><b>05 - Task Cancellation:</b> لغو Task (ترجمه نشده ❌)</li>
-  <li><b>06 - Parallel Programming with Task:</b> برنامه‌نویسی موازی با Task (ترجمه نشده ❌)</li>
-  <li><b>07 - Advanced Task Programming:</b> مباحث پیشرفته در Task (ترجمه نشده ❌)</li>
+  <li><b>01 - Asynchronous Programming and Tasks:</b> برنامه‌نویسی ناهمزمان و تسک‌ها (ترجمه شده ✅)</li>
+  <li><b>02 - Task Creation and Execution:</b> ایجاد و اجرای تسک‌ها (ترجمه شده ✅)</li>
+  <li><b>03 - Continuation and Nested Tasks:</b> ادامه‌کارها و تسک‌های تو در تو (ترجمه شده ✅)</li>
+  <li><b>04 - Exception Handling:</b> مدیریت استثناها (ترجمه شده ✅)</li>
+  <li><b>05 - Managing Cancellations:</b> مدیریت لغو تسک‌ها (ترجمه شده ✅)</li>
+  <li><b>06 - Bonus:</b> مطالب تکمیلی (در حال ترجمه 🟡)</li>
+  <li><b>07 - APPENDIX-A:</b> ضمیمه A – مباحث تکمیلی (در حال ترجمه 🟡)</li>
+  <li><b>08 - APPENDIX-B:</b> ضمیمه B – مباحث تکمیلی (ترجمه نشده ❌)</li>
 </ul>
-</ul>
-
 
 ---
 ## 🔗 فصل‌های کتاب (با لینک)
 <div align="center">
   
-| شماره | نام فصل (انگلیسی)                         | نام فصل (فارسی)                          | وضعیت | لینک                                               |
-|-------|-------------------------------------------|-------------------------------------------|--------|----------------------------------------------------|
-| 00    | Introduction                             | مقدمه                                    | ✅     | [Introduction](Book/00/Introduction.md) |
-| 01    | Asynchronous Programming and Tasks       | برنامه‌نویسی ناهمزمان و Task              | ✅     | [Asynchronous-Programming-and-Tasks](Book/01/Asynchronous-Programming-and-Tasks.md) |
-| 02    | Task Creation and Execution              | ایجاد و اجرای Task                        | ✅     | [Task-Creation-and-Execution](Book/02/Task-Creation-and-Execution.md) |
-| 03    | Continuation and Nested Tasks            | ادامه‌کارها و Taskهای تو در تو            | 🟡     | [Continuation-and-Nested-Tasks](Book/03/Continuation-and-Nested-Tasks.md) |
-| 04    | Exception Handling                       | مدیریت استثناها                           | 🟡     | [Exception-Handling](Book/04/Exception-Handling.md) |
-| 05    | Managing Cancellations                   | مدیریت لغو در Task                        | ❌     | [Managing-Cancellations](Book/05/Managing-Cancellations.md) |
-| 06    | Bonus                                    | برنامه‌نویسی موازی با Task                | ❌     | [Bonus](Book/06/Bonus.md) |
-| 07    | APPENDIX-A                               | ضمیمه A – مباحث تکمیلی                    | ❌     | [APPENDIX-A](Book/APPENDIX-A/APPENDIX-A.md) |
-| 08    | APPENDIX-B                               | ضمیمه B – مباحث تکمیلی                    | ❌     | [APPENDIX-B](Book/APPENDIX-B/APPENDIX-B.md) |
+| شماره | نام فصل (انگلیسی)                  | نام فصل (فارسی)                            | وضعیت | لینک                                                                                |
+| ----- | ---------------------------------- | ------------------------------------------ | ----- | ----------------------------------------------------------------------------------- |
+| 00    | Introduction                       | مقدمه                                      | ✅     | [Introduction](Book/00/Introduction.md)                                             |
+| 01    | Asynchronous Programming and Tasks | برنامه‌نویسی ناهمزمان و تسک‌ها             | ✅     | [Asynchronous-Programming-and-Tasks](Book/01/Asynchronous-Programming-and-Tasks.md) |
+| 02    | Task Creation and Execution        | ایجاد و اجرای تسک‌ها                       | ✅     | [Task-Creation-and-Execution](Book/02/Task-Creation-and-Execution.md)               |
+| 03    | Continuation and Nested Tasks      | ادامه‌کارها و تسک‌های تو در تو             | ✅     | [Continuation-and-Nested-Tasks](Book/03/Continuation-and-Nested-Tasks.md)           |
+| 04    | Exception Handling                 | مدیریت استثناها                            | ✅     | [Exception-Handling](Book/04/Exception-Handling.md)                                 |
+| 05    | Managing Cancellations             | مدیریت لغو تسک‌ها                          | ✅     | [Managing-Cancellations](Book/05/Managing-Cancellations.md)                         |
+| 06    | Bonus                              | مطالب تکمیلی | 🟡    | [Bonus](Book/06/Bonus.md)                                                           |
+| 07    | APPENDIX-A                         | ضمیمه A – مباحث تکمیلی                     | 🟡    | [APPENDIX-A](Book/APPENDIX-A/APPENDIX-A.md)                                         |
+| 08    | APPENDIX-B                         | ضمیمه B – مباحث تکمیلی                     | ❌     | [APPENDIX-B](Book/APPENDIX-B/APPENDIX-B.md)                                         |
 
 </div>
 
