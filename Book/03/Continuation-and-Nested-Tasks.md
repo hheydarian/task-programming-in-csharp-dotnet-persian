@@ -312,10 +312,6 @@ var inviteTask = Task.Run(() =>
 ```
 
 💡 نکته: شما همچنین می‌توانید پروژه **Chapter3\_Demo3\_CaseStudy3** را دانلود کنید تا این مطالعه موردی را تمرین کنید.
-<div align="center">
-    
-![Conventions-UsedThis-Book](../../assets/image/03/Table%203-3.jpeg) 
-</div>
 
 شناسایی یک وظیفه و وضعیت آن 🆔
 
@@ -948,3 +944,4 @@ WriteLine(getGift.Result);
 ```
 Sunny wins a book and a laptop.
 ```
+
