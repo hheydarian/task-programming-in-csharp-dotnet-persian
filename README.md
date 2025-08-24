@@ -13,9 +13,11 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/hheydarian/task-programming-in-csharp-dotnet-persian?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/hheydarian/task-programming-in-csharp-dotnet-persian?color=blueviolet" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/hheydarian/task-programming-in-csharp-dotnet-persian?color=ff69b4" alt="GitHub issues">
-  <img src="https://img.shields.io/github/issues-pr/hheydarian/task-programming-in-csharp-dotnet-persian?color=orange" alt="GitHub pull requests">
   <img src="https://img.shields.io/github/last-commit/hheydarian/task-programming-in-csharp-dotnet-persian?color=9cf" alt="Last Commit">
+<img src="https://img.shields.io/github/license/hheydarian/task-programming-in-csharp-dotnet-persian" alt="License">
+  <img src="https://img.shields.io/badge/Translation-100%25-success" alt="Translation Status">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hheydarian.task-programming-in-csharp-dotnet-persian" alt="Visitors">
+
 </p>
 
 
